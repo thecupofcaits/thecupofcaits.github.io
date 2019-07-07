@@ -1,2 +1,2 @@
 # mastercode08.github.io
-my website
+this branch is used for storing all of my yugioh cards ive collected
